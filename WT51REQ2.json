@@ -1,0 +1,94 @@
+{
+ "name": "WT51",
+ "children": [
+   {"name": "Cloud",
+  "children": [
+ {"name": " IaaS Integration",
+   "children": [
+ {"name": "Create hardware specification"},
+ {"name": "Create hardware specification"},
+ {"name": "Create network provisioning"},
+ {"name": "Distributed File System Support"},
+ {"name": "Dynamic Fault Tolerance Zoning"},
+ {"name": "Hardware Lockdown Scripts"},
+ {"name": "Installation Support"}
+ ]},
+ {"name": "PaaS Integration",
+   "children": [
+ {"name": "Services Integration"},
+ {"name": "Web Front End"},
+ {"name": "CDF Integration"},
+ {"name": "Security Integration"},
+ {"name": "Provisioning Integration"},
+ {"name": "Security Integration"}
+ ]}
+ ]},
+ {"name": "Big Data Support",
+ "children": [
+ {"name": "Hadoop"},
+ {"name": "Build/Maintain Reference Hadoop Cluster"},
+ {"name": "Build/Maintain Reference MapReduce Jobs"},
+ {"name": "Batch Mode Analytics Definition"},
+ {"name": "Large Scale ingest into HDFS"},
+ {"name": "AFRL Algorithm integration / development"},
+ {"name": "NoSQL Support"},
+ {"name": "Build/Maintain Accumulo Datastore"},
+ {"name": "CDF Accumulo Integration"},
+ {"name": "GeoMesa integration with Accumulo"},
+ {"name": "Geoserver integration with GeoMesa"},
+ {"name": "Data Perspective Support (Solr, MongoDB, Neo4j)"},
+ {"name": "Storm/Spark"},
+ {"name": "Reference Storm/Spark Cluster"},
+ {"name": "Reference Bolts/Jobs"},
+ {"name": "Realtime Mode Analytics Definition"},
+ {"name": "AFRL Algorithm integration / development"}
+ ]},
+ {"name": "Core Analytics",
+  "children": [
+{"name": "Text Analytics",
+  "children": [
+{"name": "Advanced Extraction"},
+{"name": "Analysts Sandbox"},
+{"name": "User driven Entity resolution/ deconfliction"},
+{"name": "User driven Validation and Vetting"},
+{"name": "Entity Resolution"},
+{"name": "Event Extraction"},
+{"name": "Knowledge Pack Designer"},
+{"name": "Multi-lingual Indexing, Enrichment and Search"},
+{"name": "Network/Geospatial/Temporal Visualization"},
+{"name": "Semantic Fusion"},
+{"name": "Sentiment Analysis"}
+]},
+{"name": "Alerting ",
+  "children": [
+{"name": "Semantic Reasoning"},
+{"name": "AOI Fencing"},
+{"name": "Confidence Models"}
+]},
+ {"name": "AnalyticsFramework",
+   "children": [
+{"name": "Kepler Cloud API"},
+{"name": "XDATA Algorithms Integration with Kepler"},
+{"name": "STARM Algorithm Integration with Kepler"}
+]},
+{"name": "Geospatial Analytics"},
+{"name": "Afterburner GeoMesa"},
+{"name": "Social Network Analytics",
+  "children": [
+{"name": "Social Network Analysis Algorithms"},
+{"name": "Social Networking Relationship Extraction"}
+]},
+{"name": "Structured Data Alignment"}
+]},
+ {"name": "SDK",
+  "children": [
+  {"name": "Documentation"},
+  {"name": "Working Examples"},
+  {"name": "Reference Application Integration"},
+  {"name": "Data ConnectorAPI - Data Ingest"},
+  {"name": "Information Model Editor"},
+  {"name": "Taxonomy/Gazetteer Management Tool"},
+  {"name": "Data Cleanup Tools"}
+  ] }
+  ]
+  }

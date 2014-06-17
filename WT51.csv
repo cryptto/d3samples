@@ -1,0 +1,350 @@
+Task Name
+Cloud Infrastructure
+IaaS Integration
+Create hardware specification
+Create hardware specification
+Create network provisioning
+Distributed File System Support
+Dynamic Fault Tolerance Zoning
+Hardware Lockdown Scripts
+Installation Support
+PaaS Integration
+Services Integration
+Web Front End
+CDF Integration
+Security Integration
+Provisioning Integration
+Security Integration
+Standalone PaaS
+IaaS Integration
+SSO
+Metrics
+Data Services
+MAC (Mandatory Access Controls)
+DAC (Discrestionary Access Controls)
+User Store
+Identity Propagation
+Policy Server
+Audit Server
+Management Console
+Service Registry/Locator
+Log server (consolidation and analysis)
+Monitoring Server
+Deployment Server
+PaaS Lockdown Scripts
+Data Repilcation Support
+Orchestration
+3rd Party Development Environment
+Artifact Repository
+Build System
+Issue Tracking
+Documentation Server
+Build Automation
+Continuous Delivery
+"Multi Environment Support (dev, QA, prod)"
+Discretionary builds (e.g. StackBoard)
+Automated Security Testing
+Automated System Testing
+Libraries to interface with PaaS
+Big Data Support
+Hadoop
+Build/Maintain Reference Hadoop Cluster
+Build/Maintain Reference MapReduce Jobs
+Batch Mode Analytics Definition
+Large Scale ingest into HDFS
+AFRL Algorithm integration / development
+NoSQL Support
+Build/Maintain Accumulo Datastore
+CDF Accumulo Integration
+GeoMesa integration with Accumulo
+Geoserver integration with GeoMesa
+"Data Perspective Support (Solr, MongoDB, Neo4j)"
+Storm/Spark
+Reference Storm/Spark Cluster
+Reference Bolts/Jobs
+Realtime Mode Analytics Definition
+AFRL Algorithm integration / development
+Cross Domain
+ISSE Interfaces
+Structured Data mapping to interfaces
+Cross Domain Workflow
+UnStructured Data mapping to interfaces
+Media mapping to interfaces
+Core Security
+ Authentication
+Performance Improvements
+Additional Performance Improvements
+Single Sign on Support
+ Authorization
+Performance Improvements
+Extended Access Controls
+Auditing
+Auditing Support
+Auditing Support Tools
+Query Auditing
+PKI/X.509 Support
+Initial Support
+Strong Authentication Between Services
+Soft-Cert Support for End Users
+Open AM (DI2E)
+User Management
+RBAC Support
+RBAC Performance Improvement
+Extended Access Controls (Groups and Folders)
+Security UI
+Integrate Security UI with User Management
+Performance Improvements
+Security UI for Extended Access Controls
+Core Data
+Core Data General
+Query
+Link
+Persistance
+Change Notification
+Polyglot Vventing
+Search
+Data Sync/Index
+Shapefile Management
+Document Store
+RDF Triple Store
+Entity Extraction
+File System Data Source
+Data Monitoring
+Service-based Data Sources
+Field ability to define new writable data sources
+Ingest streaming data sources
+"View, import, and export KML data"
+HTML Data Source Parsing
+Ingest and persist RSS and other feeds
+Generate default Forms/Reports from Excel
+Integrate Access front end with CDF
+Data Geocoding
+Support for natural data source semantics
+"View, import, and export Analyst Notebook data"
+Website Crawling
+Capture Streaming content
+Content/Media
+Media meta data store
+Migration to Distributed File Store
+Metadata
+Metadata service
+InfoModel change notifications (Draft/published)
+Content Acquistion
+"Connectors (SharePoint, RSS, File System)"
+Acquision metadata extraction / normalization
+Content Cache / Segmentaion strategy
+Data dissemination
+I/O
+SOAP Service
+Document Export
+Entity/Relationship Export
+RDF Triple Store RESTful Interface
+Twitter Data Feed
+Batch message import
+Data Replication
+Data Replication Installation Optimization/Tuning
+C4I Enhancements
+Enhance CDF complex/composite query support
+Data model migration of C2 data dictionary to CDF
+Data object delegate logic
+Data layer security for migrated classes
+Core Services
+General Core Services
+Strategy/Assessment
+Utility
+Topic Builder Tagging Service
+General Alerting Notification Service
+General Annotation / Comment Service
+Rating (Maturation of STF Confidence)
+Expose CAPCO services into client and Ref App
+Store Preferences/Configuration in the enterprise
+Data Report Export Generation
+"PPT, XLS, DOC, PDF"
+Jasper Reports (BI)
+Publishing
+Geo Services
+Primary Geospatial Services
+WMS/WPS/WFS (DI2E)
+Address look up services
+Reporting
+Data Entry
+Basic Reporting Service
+CIDNE Reporting Service
+Form Authoring
+Workflow/BPM
+Report Gen Workflow
+Data QC/approval workflows
+FDO / Intel Oversight processes
+OpenSearch
+Search Endpoint
+CDR (DI2E)
+Job Scheduling
+Basic Capability
+Enhanced Capability
+C4I Services
+C4I mission planning/execution business services
+Product Generation Service 
+Detail Planning Product Service
+Composite C4I Data Services
+"Interface services (GCCS, FrOB Import)"
+Data Management Services
+Tailored Alerts
+Core Analytics
+Text Analytics
+Advanced Extraction
+Analysts Sandbox
+User driven Entity resolution/ deconfliction
+User driven Validation and Vetting
+Entity Resolution
+Event Extraction
+Knowledge Pack Designer
+"Multi-lingual Indexing, Enrichment and Search"
+Network/Geospatial/Temporal Visualization
+Semantic Fusion
+Sentiment Analysis
+Alerting 
+Semantic Reasoning
+AOI Fencing
+Confidence Models
+ AnalyticsFramework
+Kepler Cloud API
+XDATA Algorithms Integration with Kepler
+STARM Algorithm Integration with Kepler
+Geospatial Analytics
+Afterburner GeoMesa
+Social Network Analytics
+Social Network Analysis Algorithms
+Social Networking Relationship Extraction
+Structured Data Alignment
+Infrastructure
+General Infrastructure Elements
+App Server (Tomcat) Enterprise Integration
+ESB Enterprise Integration
+NoSQL Data Store Enterprise Integration
+Geoservices Enterprise Integration
+Messaging Enterprise Integration
+Graph Database Enterprise Integration
+Content Repository Enterprise Integration
+CXF Enterprise Integration
+Identify Management Enterprise Integration
+LDAP Interoperability Enterprise Integration
+Search (Solr) Enterprise Integration
+SQL Data Store Enterprise Integration
+Web Server Enterprise Integration
+Project Tool Remote Proxy Support 
+General Infrastructure Updates
+Workflow/BPM Enterprise Integration
+Workflow/BPM Enterprise Updates
+Web UI
+Reference Application
+Initial Version
+Updated for New CXF Capabilities
+OWF
+Integration
+Sustainment
+CXF Components
+Initial CXF Library
+Timeline
+Geographic Heat Map
+Spinner/Progress bar
+Query Panel
+General API Updates
+Enhancements
+D3 Integration
+Charts and Graphs
+OpsClock
+Gantt
+Time Table
+Help
+Basic Map Component
+Updates to Map Component
+ Link Analysis Component (LinkFX)
+Link Analysis Component (Javascript-Based)
+Search and Discovery
+Strategy Assesment 
+Workspace
+Basic Reporting Component
+Alerting UI
+CIDNE Compliant Reporting Component
+Form Builder
+Event playback
+Media Support
+Mission
+SEMSeer Link Display
+HTML Editor
+Annotation Tools
+Custom Web Page Builder
+Location
+Color Picker
+Clock
+Dialog
+Language Translator
+Quick Email
+Video/Event Capture
+Slide-outs
+Drag/Drop
+Scrollable Container
+CXF Fiddle
+CXF Composite Component Builder
+Validation API
+Export Service UI
+Mobile Responsive Support
+Layout UI
+Locale
+JavaFX Integration
+Entity Explorer
+Word Cloud
+File Upload
+Group results
+Geospatial Situation Awareness
+C4I UI Components
+Request management
+Mission planning
+Network enabled weapons/JICO/JASSM support
+"Airspace management (requests, import, view)"
+"Target management (import, view)"
+Tanker planning
+"Data setup/utilities (ABP, COA, preferences)"
+Data management (import/export/sync)
+ATO Production
+Execution Displays
+Collection management
+Generic visualization configuration
+Desktop Client
+Project Tool
+Unified Security Model
+Enterprise Search Capability
+CDF Data Access
+Configure to enterprise aware
+Enterprise Net Launcher
+3D Map Visualization
+Faceted Query Panel for Search
+Multi-Lingual Ribbon Support
+Geospatial Heatmaps
+Smart Welcome Screens
+Maintenance and Updates
+Migration tools for WT files to Config Service
+SM to WE Security Migration tools
+Dashboard widgets
+Geospatial Analysis for Thematic Mapping
+Quick Edit Display 
+Multiple Coordinate Systems on Map
+Quick View of Excel Files
+Animation Based Upon User Selected Attribute
+Video Capture of Animated Displays
+User Specified Node Placement in Link Analysis
+Excel Export of Timetable
+SDK
+SDK
+Documentation
+Working Examples
+Reference Application Integration
+Data ConnectorAPI - Data Ingest
+Information Model Editor
+Taxonomy/Gazetteer Management Tool
+Data Cleanup Tools
+"Test, CM, Docs, PM, C&A"
+Program Management
+Release Support
+
+
